@@ -1,0 +1,23 @@
+{
+  "name": "rollup-plugin-multidest",
+  "version": "1.0.0",
+  "description": "Enables multiple destination within a single rollup configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audinue/rollup-plugin-multidest.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin"
+  ],
+  "author": "@audinue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audinue/rollup-plugin-multidest/issues"
+  },
+  "homepage": "https://github.com/audinue/rollup-plugin-multidest#readme"
+}
