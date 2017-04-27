@@ -6,7 +6,7 @@ Enables multiple destination within a single rollup configuration.
 npm install rollup-plugin-multidest -D
 ```
 
-No more `rollup.config.es.js`, `rollup.config.umd.js` and `rollup -c rollup.config.es.js && rollup.config.umd.js`!
+No more `rollup.config.es.js`, `rollup.config.umd.js` and `rollup -c rollup.config.es.js && rollup -c rollup.config.umd.js`!
 
 ## Example
 
